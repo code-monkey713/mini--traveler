@@ -1,1 +1,1 @@
-# mini--traveler
+# mini-traveler
